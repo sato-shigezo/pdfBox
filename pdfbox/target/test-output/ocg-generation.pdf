@@ -1,0 +1,158 @@
+%PDF-1.5
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.5
+/Pages 2 0 R
+/OCProperties 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/OCGs [5 0 R 6 0 R 7 0 R]
+/D 8 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources 9 0 R
+/Contents 10 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /OCG
+/Name (background)
+>>
+endobj
+6 0 obj
+<<
+/Type /OCG
+/Name (enabled)
+>>
+endobj
+7 0 obj
+<<
+/Type /OCG
+/Name (disabled)
+>>
+endobj
+8 0 obj
+<<
+/Order [5 0 R 6 0 R 7 0 R]
+/ON [6 0 R]
+/OFF [7 0 R]
+>>
+endobj
+9 0 obj
+<<
+/Properties 11 0 R
+/Font 12 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 13 0 R
+>>
+stream
+/OC /MC0 BDC
+BT
+/F0 14 Tf
+80 700 Td
+(PDF 1.5: Optional Content Groups) Tj
+ET
+BT
+/F1 12 Tf
+80 680 Td
+(You should see a green textline, but no red text line.) Tj
+ET
+EMC
+/OC /MC1 BDC
+0 1 0 rg
+BT
+/F1 12 Tf
+80 600 Td
+(This is from an enabled layer. If you see this, that's good.) Tj
+ET
+EMC
+/OC /MC2 BDC
+1 0 0 rg
+BT
+/F1 12 Tf
+80 500 Td
+(This is from a disabled layer. If you see this, that's NOT good!) Tj
+ET
+EMC
+
+endstream
+endobj
+11 0 obj
+<<
+/MC0 5 0 R
+/MC1 6 0 R
+/MC2 7 0 R
+>>
+endobj
+12 0 obj
+<<
+/F0 14 0 R
+/F1 15 0 R
+>>
+endobj
+13 0 obj
+407
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000015 00000 n
+0000000098 00000 n
+0000000155 00000 n
+0000000211 00000 n
+0000000316 00000 n
+0000000367 00000 n
+0000000415 00000 n
+0000000464 00000 n
+0000000537 00000 n
+0000000590 00000 n
+0000001054 00000 n
+0000001109 00000 n
+0000001153 00000 n
+0000001173 00000 n
+0000001276 00000 n
+trailer
+<<
+/Root 1 0 R
+/ID [<C2FD58E02CB5C2C35E48E57DB5B94F1C> <C2FD58E02CB5C2C35E48E57DB5B94F1C>]
+/Size 16
+>>
+startxref
+1374
+%%EOF

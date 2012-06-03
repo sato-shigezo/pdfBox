@@ -1,0 +1,178 @@
+2012/06/02 7:50:09 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse allah2.pdf for standard test
+2012/06/02 7:50:10 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse allah2.pdf for sorted test
+2012/06/02 7:50:10 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse cweb.pdf for standard test
+2012/06/02 7:50:12 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse cweb.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse data-000001.pdf for standard test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse data-000001.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse FC60_Times.pdf for standard test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse FC60_Times.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse hello3.pdf for standard test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse hello3.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse Liste732004001452_001_0.pdf_0_.pdf for standard test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse Liste732004001452_001_0.pdf_0_.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse openoffice-test-document.pdf for standard test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse openoffice-test-document.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse rotation.pdf for standard test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse rotation.pdf for sorted test
+2012/06/02 7:50:13 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse sample_fonts_solidconvertor.pdf for standard test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse sample_fonts_solidconvertor.pdf for sorted test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse sampleForSpec.pdf for standard test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse sampleForSpec.pdf for sorted test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse simple-openoffice.pdf for standard test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse simple-openoffice.pdf for sorted test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse yaddatest.pdf for standard test
+2012/06/02 7:50:14 org.apache.pdfbox.util.TestTextStripper doTestFile
+î•ñ: Preparing to parse yaddatest.pdf for sorted test
+2012/06/02 7:50:15 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert 26101_Colors.ai
+2012/06/02 7:50:16 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:16 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:16 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:16 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:16 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:16 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:17 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:17 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:17 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:17 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:17 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:17 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:17 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert 4PP-Highlighting.pdf
+2012/06/02 7:50:23 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert ARCHIVERGB.ai
+2012/06/02 7:50:23 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:24 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:27 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:27 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:28 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:28 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:29 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:29 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:29 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert FANTASTICCMYK.ai
+2012/06/02 7:50:29 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:29 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:30 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:30 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:31 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:31 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:31 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:31 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:31 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert HOTRODCMYK.ai
+2012/06/02 7:50:31 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:31 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:33 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:33 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:34 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:34 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:36 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:36 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:37 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert source.pdf
+2012/06/02 7:50:40 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert survey.pdf
+2012/06/02 7:50:40 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EI
+2012/06/02 7:50:40 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:42 org.apache.pdfbox.pdfviewer.PageDrawer fillPath
+î•ñ: ColorSpace Pattern doesn't provide a non-stroking color, using white instead!
+2012/06/02 7:50:42 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EI
+2012/06/02 7:50:42 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:45 org.apache.pdfbox.pdfviewer.PageDrawer fillPath
+î•ñ: ColorSpace Pattern doesn't provide a non-stroking color, using white instead!
+2012/06/02 7:50:45 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EI
+2012/06/02 7:50:45 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:47 org.apache.pdfbox.pdfviewer.PageDrawer fillPath
+î•ñ: ColorSpace Pattern doesn't provide a non-stroking color, using white instead!
+2012/06/02 7:50:47 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EI
+2012/06/02 7:50:47 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: i
+2012/06/02 7:50:49 org.apache.pdfbox.pdfviewer.PageDrawer fillPath
+î•ñ: ColorSpace Pattern doesn't provide a non-stroking color, using white instead!
+2012/06/02 7:50:49 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert test-landscape2.pdf
+2012/06/02 7:50:49 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:49 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:49 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:49 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:49 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:49 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:50 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: BDC
+2012/06/02 7:50:50 org.apache.pdfbox.util.PDFStreamEngine processOperator
+î•ñ: unsupported/disabled operation: EMC
+2012/06/02 7:50:50 org.apache.pdfbox.util.TestImageIOUtils doTestFile
+î•ñ: Preparing to convert tiger-as-form-xobject.pdf
